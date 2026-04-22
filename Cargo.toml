@@ -1,0 +1,18 @@
+[package]
+name = "tlahtolli"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.31"
+egui = "0.31"
+comrak = "0.52"
+ropey = "2.0.0-beta.1"
+crowbook = "0.17"
+markdown2pdf = "0.2"
+rust-i18n = "4"
+rfd = "0.17"
+image = "0.25"
+webp = "0.3"
+sevenz-rust = "0.6"
+dirs = "4"
