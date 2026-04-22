@@ -5198,6 +5198,7 @@ dependencies = [
  "ropey",
  "rust-i18n 4.0.0",
  "sevenz-rust",
+ "uuid",
  "webp",
 ]
 

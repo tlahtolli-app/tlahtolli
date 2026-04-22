@@ -16,3 +16,4 @@ image = "0.25"
 webp = "0.3"
 sevenz-rust = "0.6"
 dirs = "4"
+uuid = { version = "1", features = ["v4"] }

@@ -6,6 +6,7 @@ mod export;
 mod project;
 mod ui;
 
+rust_i18n::i18n!("locales");
 fn main() -> eframe::Result {
     let options = eframe::NativeOptions::default();
     eframe::run_native(
