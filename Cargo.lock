@@ -5197,7 +5197,9 @@ dependencies = [
  "rfd",
  "ropey",
  "rust-i18n 4.0.0",
+ "serde",
  "sevenz-rust",
+ "toml",
  "uuid",
  "webp",
 ]
